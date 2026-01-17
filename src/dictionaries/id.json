@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "about": "Tentang Kami",
+    "services": "Layanan",
+    "process": "Proses",
+    "caseStudies": "Studi Kasus",
+    "career": "Karir",
+    "contact": "Hubungi Kami"
+  },
+  "hero": {
+    "badge": "Innovate. Build. Evolve.",
+    "title_start": "Membawa",
+    "title_highlight": "Inovasi Digital",
+    "title_end": "ke Bisnis Anda",
+    "description": "Kami adalah mitra teknologi Anda dalam merancang, membangun, dan meluncurkan solusi software yang luar biasa, mengubah ide menjadi realitas digital.",
+    "cta_primary": "Lihat Layanan",
+    "cta_secondary": "Hubungi Kami"
+  },
+  "services": {
+    "title": "Layanan Unggulan",
+    "subtitle": "Kami menawarkan berbagai solusi digital yang disesuaikan dengan kebutuhan bisnis Anda untuk mencapai pertumbuhan maksimal.",
+    "cta": "Mulai Konsultasi",
+    "items": [
+      {
+        "title": "Pengembangan Web",
+        "description": "Solusi web modern, responsif, dan scalable mulai dari landing page hingga aplikasi web kompleks."
+      },
+      {
+        "title": "Aplikasi Mobile",
+        "description": "Aplikasi native (iOS & Android) yang intuitif dan berkinerja tinggi untuk kebutuhan bisnis Anda."
+      },
+      {
+        "title": "Desain UI/UX",
+        "description": "Desain antarmuka yang indah dan fungsional untuk memastikan pengalaman pengguna terbaik."
+      }
+    ]
+  },
+  "about": {
+    "title": "Tentang Innovial",
+    "subtitle": "Kami adalah arsitek solusi digital Anda.",
+    "mission_title": "Misi Kami",
+    "mission_desc": "Misi kami adalah memberdayakan bisnis melalui teknologi yang inovatif dan dibuat khusus. Kami percaya bahwa software yang tepat dapat mentransformasi operasi, mendorong pertumbuhan, dan menciptakan keunggulan kompetitif yang berkelanjutan.",
+    "values_title": "Nilai-Nilai Kami",
+    "values": {
+      "quality": { "label": "Kualitas", "text": "Kami terobsesi dengan kode yang bersih, efisien, dan dapat diandalkan." },
+      "transparency": { "label": "Transparansi", "text": "Komunikasi yang terbuka dan jujur di setiap tahap proyek." },
+      "partnership": { "label": "Kemitraan", "text": "Kami bukan hanya vendor, kami adalah mitra kesuksesan Anda." }
+    },
+    "team_title": "Tim Kami"
+  },
+  "process": {
+    "title": "Proses Kerja Kami",
+    "subtitle": "Pendekatan terstruktur kami untuk menjamin kesuksesan proyek.",
+    "steps": [
+      {
+        "title": "Discovery & Konsultasi",
+        "description": "Kami memulai dengan sesi mendalam untuk memahami visi, tujuan, dan tantangan spesifik bisnis Anda."
+      },
+      {
+        "title": "Perencanaan & Desain UI/UX",
+        "description": "Tim kami merancang arsitektur sistem dan antarmuka pengguna yang intuitif, fokus pada pengalaman terbaik."
+      },
+      {
+        "title": "Pengembangan (Development)",
+        "description": "Menggunakan teknologi terdepan, kami membangun solusi Anda dengan kode yang bersih dan terukur."
+      },
+      {
+        "title": "Pengujian (Quality Assurance)",
+        "description": "Setiap fitur diuji secara ketat untuk memastikan fungsionalitas, keamanan, dan performa yang optimal."
+      },
+      {
+        "title": "Peluncuran (Deployment)",
+        "description": "Kami menangani semua aspek teknis peluncuran produk Anda ke lingkungan live dengan lancar."
+      },
+      {
+        "title": "Dukungan & Evolusi",
+        "description": "Setelah peluncuran, kami menyediakan dukungan dan siap membantu evolusi produk Anda ke depan."
+      }
+    ]
+  },
+  "caseStudies": {
+    "title": "Studi Kasus & Proyek",
+    "subtitle": "Solusi nyata untuk masalah bisnis yang kompleks.",
+    "cta": "Lihat Detail Proyek",
+    "labels": {
+      "challenge": "Tantangan",
+      "solution": "Solusi",
+      "outcome": "Hasil"
+    },
+    "items": [
+      {
+        "title": "Studi Kasus: Platform E-Commerce Kustom",
+        "category": "Web Development",
+        "challenge": "Sebuah brand fashion membutuhkan platform e-commerce yang dapat diskalakan, dengan manajemen inventaris terpusat dan pengalaman checkout yang unik.",
+        "solution": "Kami membangun aplikasi web progresif (PWA) menggunakan Next.js untuk frontend dan sistem backend headless untuk fleksibilitas maksimal.",
+        "outcome": "Peningkatan konversi penjualan sebesar 25% dan waktu loading halaman 40% lebih cepat dibandingkan platform sebelumnya."
+      },
+      {
+        "title": "Studi Kasus: Aplikasi Mobile Produktivitas Tim",
+        "category": "Mobile App",
+        "challenge": "Sebuah agensi kreatif kesulitan melacak progres proyek dan alur kerja tim yang bekerja secara remote.",
+        "solution": "Kami mengembangkan aplikasi mobile native untuk iOS dan Android yang memungkinkan manajemen tugas, pelacakan waktu, dan komunikasi tim secara real-time.",
+        "outcome": "Meningkatkan efisiensi tim sebesar 35% dan mengurangi waktu rapat koordinasi mingguan hingga 50%."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Apa Kata Klien Kami",
+    "subtitle": "Kepercayaan Anda adalah aset terbesar kami.",
+    "items": [
+      {
+        "quote": "Kerja sama dengan Innovial mengubah cara kami beroperasi. Solusi yang mereka berikan tidak hanya canggih secara teknis, tapi juga sangat intuitif untuk tim kami.",
+        "name": "Nama Klien",
+        "company": "Perusahaan Klien"
+      },
+      {
+        "quote": "Prosesnya sangat transparan dari awal hingga akhir. Kami selalu tahu progres proyek kami dan merasa benar-benar menjadi mitra, bukan sekadar klien.",
+        "name": "Nama Klien 2",
+        "company": "Perusahaan Klien 2"
+      }
+    ]
+  },
+  "blog": {
+    "title": "Insights & Artikel",
+    "subtitle": "Berbagi pengetahuan untuk membantu bisnis Anda tumbuh.",
+    "read_more": "Baca Selengkapnya",
+    "view_all": "Lihat Semua Artikel",
+    "items": [
+      {
+        "title": "5 Tanda Bisnis Anda Butuh Aplikasi Mobile Custom",
+        "summary": "Di era digital ini, kecepatan dan aksesibilitas adalah kunci. Cari tahu apakah bisnis Anda siap untuk melompat ke platform mobile."
+      },
+      {
+        "title": "Memilih Teknologi Web yang Tepat di 2026: React vs Vue vs Angular",
+        "summary": "Keputusan teknologi di awal akan menentukan skalabilitas proyek Anda. Kami membedah tiga framework JavaScript paling populer."
+      }
+    ]
+  },
+  "footer": {
+    "description": "Mitra teknologi terpercaya untuk transformasi digital bisnis Anda. Kami membangun solusi masa depan.",
+    "company": "Perusahaan",
+    "services": "Layanan",
+    "contact": "Hubungi Kami",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
