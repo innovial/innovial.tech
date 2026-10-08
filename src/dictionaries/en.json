@@ -1,148 +1,15 @@
 {
   "nav": {
-    "about": "About Us",
-    "services": "Services",
-    "process": "Process",
-    "caseStudies": "Case Studies",
-    "career": "Careers",
-    "contact": "Contact Us"
-  },
-  "hero": {
-    "badge": "Innovate. Build. Evolve.",
-    "title_start": "Bringing",
-    "title_highlight": "Digital Innovation",
-    "title_end": "to Your Business",
-    "description": "We are your technology partner in designing, building, and launching exceptional software solutions, turning ideas into digital reality.",
-    "cta_primary": "View Services",
-    "cta_secondary": "Contact Us"
-  },
-  "services": {
-    "title": "Our Services",
-    "subtitle": "We offer various digital solutions tailored to your business needs to achieve maximum growth.",
-    "cta": "Start Consultation",
-    "items": [
-      {
-        "title": "Web Development",
-        "description": "Modern, responsive, and scalable web solutions ranging from landing pages to complex web applications."
-      },
-      {
-        "title": "Mobile Apps",
-        "description": "Intuitive and high-performance native applications (iOS & Android) for your business needs."
-      },
-      {
-        "title": "UI/UX Design",
-        "description": "Beautiful and functional interface designs to ensure the best user experience."
-      }
-    ]
-  },
-  "about": {
-    "title": "About Innovial",
-    "subtitle": "We are the architects of your digital solutions.",
-    "mission_title": "Our Mission",
-    "mission_desc": "Our mission is to empower businesses through innovative and custom-made technology. We believe that the right software can transform operations, drive growth, and create sustainable competitive advantages.",
-    "values_title": "Our Values",
-    "values": {
-      "quality": { "label": "Quality", "text": "We are obsessed with clean, efficient, and reliable code." },
-      "transparency": { "label": "Transparency", "text": "Open and honest communication at every stage of the project." },
-      "partnership": { "label": "Partnership", "text": "We are not just vendors; we are partners in your success." }
-    },
-    "team_title": "Our Team"
-  },
-  "process": {
-    "title": "Our Working Process",
-    "subtitle": "Our structured approach to ensuring project success.",
-    "steps": [
-      {
-        "title": "Discovery & Consultation",
-        "description": "We start with in-depth sessions to understand your business vision, goals, and specific challenges."
-      },
-      {
-        "title": "Planning & UI/UX Design",
-        "description": "Our team designs system architecture and intuitive user interfaces, focusing on the best experience."
-      },
-      {
-        "title": "Development",
-        "description": "Using leading technologies, we build your solution with clean and scalable code."
-      },
-      {
-        "title": "Quality Assurance",
-        "description": "Every feature is rigorously tested to ensure optimal functionality, security, and performance."
-      },
-      {
-        "title": "Deployment",
-        "description": "We handle all technical aspects of launching your product into the live environment smoothly."
-      },
-      {
-        "title": "Support & Evolution",
-        "description": "After launch, we provide support and are ready to help your product evolve into the future."
-      }
-    ]
-  },
-  "caseStudies": {
-    "title": "Case Studies & Projects",
-    "subtitle": "Real solutions for complex business problems.",
-    "cta": "View Project Details",
-    "labels": {
-      "challenge": "Challenge",
-      "solution": "Solution",
-      "outcome": "Outcome"
-    },
-    "items": [
-      {
-        "title": "Case Study: Custom E-Commerce Platform",
-        "category": "Web Development",
-        "challenge": "A fashion brand needed a scalable e-commerce platform with centralized inventory management and a unique checkout experience.",
-        "solution": "We built a progressive web app (PWA) using Next.js for the frontend and a headless backend system for maximum flexibility.",
-        "outcome": "Increased sales conversion by 25% and page load time 40% faster compared to the previous platform."
-      },
-      {
-        "title": "Case Study: Team Productivity Mobile App",
-        "category": "Mobile App",
-        "challenge": "A creative agency struggled to track project progress and team workflow while working remotely.",
-        "solution": "We developed a native mobile app for iOS and Android allowing task management, time tracking, and real-time team communication.",
-        "outcome": "Increased team efficiency by 35% and reduced weekly coordination meeting time by 50%."
-      }
-    ]
-  },
-  "testimonials": {
-    "title": "What Our Clients Say",
-    "subtitle": "Your trust is our greatest asset.",
-    "items": [
-      {
-        "quote": "Working with Innovial changed the way we operate. The solutions they provided were not only technically advanced but also very intuitive for our team.",
-        "name": "Client Name",
-        "company": "Client Company"
-      },
-      {
-        "quote": "The process was very transparent from start to finish. We always knew the progress of our project and felt like true partners, not just clients.",
-        "name": "Client Name 2",
-        "company": "Client Company 2"
-      }
-    ]
-  },
-  "blog": {
-    "title": "Insights & Articles",
-    "subtitle": "Sharing knowledge to help your business grow.",
-    "read_more": "Read More",
-    "view_all": "View All Articles",
-    "items": [
-      {
-        "title": "5 Signs Your Business Needs a Custom Mobile App",
-        "summary": "In this digital era, speed and accessibility are key. Find out if your business is ready to jump into the mobile platform."
-      },
-      {
-        "title": "Choosing the Right Web Technology in 2026: React vs Vue vs Angular",
-        "summary": "Technology decisions early on will determine your project's scalability. We dissect the three most popular JavaScript frameworks."
-      }
-    ]
+    "product": "Why Shift",
+    "workflow": "Workflow",
+    "approach": "Technical direction",
+    "mainNavigation": "Main navigation",
+    "menu": "Menu",
+    "closeMenu": "Close",
+    "contact": "Contact"
   },
   "footer": {
-    "description": "Trusted technology partner for your business digital transformation. We build future solutions.",
-    "company": "Company",
-    "services": "Services",
-    "contact": "Contact Us",
-    "rights": "All rights reserved.",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service"
+    "description": "Migration planning for teams that own legacy systems.",
+    "rights": "All rights reserved."
   }
 }

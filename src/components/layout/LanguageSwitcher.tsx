@@ -15,26 +15,26 @@ export function LanguageSwitcher({ currentLang }: { currentLang: 'en' | 'id' }) 
   }
 
   return (
-    <div className="flex items-center gap-2 text-sm font-medium border-l border-gray-200 pl-4 ml-4">
+    <nav aria-label="Language" className="flex min-h-11 items-center gap-2 border-l border-slate-600 pl-3 text-sm font-semibold md:ml-1">
       <Link 
         href={redirectedPathName('id')} 
         className={cn(
-          "transition-colors hover:text-primary",
-          currentLang === 'id' ? 'text-primary font-bold' : 'text-gray-400'
+          "inline-flex min-h-11 items-center px-1 transition-colors hover:text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-amber-400",
+          currentLang === 'id' ? 'text-white' : 'text-slate-300'
         )}
       >
         ID
       </Link>
-      <span className="text-gray-300">|</span>
+      <span aria-hidden="true" className="text-slate-500">|</span>
       <Link 
         href={redirectedPathName('en')} 
         className={cn(
-          "transition-colors hover:text-primary",
-          currentLang === 'en' ? 'text-primary font-bold' : 'text-gray-400'
+          "inline-flex min-h-11 items-center px-1 transition-colors hover:text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-amber-400",
+          currentLang === 'en' ? 'text-white' : 'text-slate-300'
         )}
       >
         EN
       </Link>
-    </div>
+    </nav>
   )
 }
